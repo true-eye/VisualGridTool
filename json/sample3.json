@@ -1,0 +1,75 @@
+{
+    "menu": {
+        "title": "navbar-3",
+        "text": "Text Menu",
+        "items": [
+            {"itemText": "Home", "active": true},
+            {"itemText": "Features"},
+            {"itemText": "Pricing"}
+        ]
+    },
+    "rows": [
+    {
+        "title": "row1",
+        "columns": [
+          {
+              "title": "column-1-1",
+              "color": "lightblue",
+              "text": "column1"
+          },
+          {
+              "title": "column-1-2",
+              "color": "red",
+              "text": "column2"
+          },
+          {
+            "color": "yellow",
+            "text": "column3"
+          }
+        ]
+    },
+    {
+        "title": "row2",
+        "columns": [
+          {
+            "color": "#888888",
+            "text": "column1"
+          },
+          {
+            "color": "white",
+            "text": "column2"
+          }
+        ]
+    },
+    {
+        "title": "row3",
+        "columns": [
+          {
+            "color": "lightgreen",
+            "text": "column1"
+          }
+        ]
+    },
+    {
+        "title": "row4",
+        "columns": [
+            {
+                "color": "#d3d3d3",
+                "text": "column1"
+            },
+            {
+                "color": "#d3d3d3",
+                "text": "column2"
+            },
+            {
+                "color": "#d3d3d3",
+                "text": "column3"
+            },
+            {
+                "color": "#d3d3d3",
+                "text": "column4"
+            }
+        ]
+    }
+    ]
+  }

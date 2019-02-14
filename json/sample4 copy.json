@@ -1,0 +1,107 @@
+{
+    "menu": {
+        "title": "navbar-3",
+        "text": "Text Menu",
+        "items": [
+            {"itemText": "Home", "active": true},
+            {"itemText": "Features"},
+            {"itemText": "Pricing"}
+        ]
+    },
+    "sections": [
+      {
+        "name": "section1",
+        "title": "TOP SERIES",
+        "background": "lightgreen",
+        "rows": [
+          {
+            "name": "Row1",
+            "background": "darkblue",
+            "columns": [
+              {
+                "name": "column-1-1",
+                "background": "lightblue",
+                "text": "column1"
+              },
+              {
+                  "name": "column-1-2",
+                  "background": "red",
+                  "text": "column2"
+              },
+              {
+                "name": "column-1-3",
+                "background": "yellow",
+                "text": "column3"
+              },
+              {
+                "name": "column-1-4",
+                "background": "red",
+                "text": "column4"
+              }
+            ]
+          },
+          {
+            "name": "Row2",
+            "background": "darkyellow",
+            "columns": [
+              {
+                "name": "column-2-1",
+                "background": "#888888",
+                "text": "column1"
+              },
+              {
+                "name": "column-2-2",
+                "background": "white",
+                "text": "column2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "MORE FOR YOU",
+        "name": "section2",
+        "background": "#d3d3d3",
+        "rows": [
+          {
+            "name": "Row3",
+            "background": "grey",
+            "columns": [
+              {
+                "name": "column-3-1",
+                "background": "lightyellow",
+                "text": "column1"
+              }
+            ]
+          },
+          {
+            "name": "Row4",
+            "background": "blue",
+            "columns": [
+              {
+                "name": "column-3-2",
+                "background": "lightyellow",
+                "text": "column1"
+              }
+            ]
+          },
+          {
+            "name": "Row5",
+            "background": "#eeeeee",
+            "columns": [
+              {
+                "name": "column-4-1",
+                "background": "#888888",
+                "text": "column1"
+              },
+              {
+                "name": "column-4-2",
+                "background": "white",
+                "text": "column2"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

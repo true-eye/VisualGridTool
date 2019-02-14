@@ -1,0 +1,41 @@
+.toolView .col {
+    height: 550px;
+    max-width: 200px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+    background-color: grey;
+
+    -webkit-box-shadow: 0 0 20px rgba(0,0,0,0.55);
+    box-shadow: 0 0 20px rgba(0,0,0,0.55);
+    border-radius: 5px;
+}
+
+.preview .col {
+    height: 60px;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: grey;
+
+    -webkit-box-shadow: 0 0 20px rgba(0,0,0,0.55);
+    box-shadow: 0 0 20px rgba(0,0,0,0.55);
+    border-radius: 5px;
+}
+
+.toolView .col h4{
+    color: white;
+}
+
+.toolView .col label{
+    color: white;
+}
+
+.addButton {
+    position: absolute;
+    bottom: 20px;
+}
+
+#btnGroupResult {
+    position: absolute;
+    bottom: 70px;
+}
